@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/Digi-crome/Project-6/NoteBook/mlruns/596069276274051761/3bafeded598149799612b75dcffdd79d/artifacts
+end_time: 1727717397835
+entry_point_name: ''
+experiment_id: '596069276274051761'
+lifecycle_stage: active
+run_id: 3bafeded598149799612b75dcffdd79d
+run_name: casual-cub-11
+run_uuid: 3bafeded598149799612b75dcffdd79d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727717397600
+status: 3
+tags: []
+user_id: HP

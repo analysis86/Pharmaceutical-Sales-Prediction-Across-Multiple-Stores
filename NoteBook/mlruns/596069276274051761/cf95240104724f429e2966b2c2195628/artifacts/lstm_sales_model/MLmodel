@@ -1,0 +1,20 @@
+artifact_path: lstm_sales_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.11.5
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.17.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.16.2
+model_size_bytes: 243860
+model_uuid: 6a6bfef58da840dfb52dc181710a8e9e
+run_id: cf95240104724f429e2966b2c2195628
+utc_time_created: '2024-09-30 15:30:23.614443'
