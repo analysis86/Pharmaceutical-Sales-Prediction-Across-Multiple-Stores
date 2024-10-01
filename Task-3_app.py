@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Load the trained model
 import os
-model_path = r'C:\Users\HP\Desktop\Digi-crome\Project-6\model-29-09-2024-00-07-36-986394.pkl'
+model_path = r'C:\Users\HP\Desktop\Digi-crome\Project-6\model-01-10-2024-13-27-03-193142.pkl'
 if os.path.exists(model_path):
     try:
         with open(model_path, 'rb') as model_file:
