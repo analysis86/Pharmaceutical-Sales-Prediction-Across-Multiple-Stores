@@ -7,4 +7,5 @@
 • In Task-1, we have done EDA part in notebook folder and checking all available features,
  checking their interactions and correlation as well as their variability with respect to the
  target.
-  In this task, we seek to explore the behaviour of customers in the various stores.
+ 
+  • In this task, we seek to explore the behaviour of customers in the various stores.
